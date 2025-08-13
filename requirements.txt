@@ -1,0 +1,14 @@
+click
+rich
+numpy
+librosa
+soundfile
+torch
+torchaudio
+
+fastapi
+uvicorn
+python-multipart
+
+# Optional for Coqui backend (install if needed)
+# TTS
